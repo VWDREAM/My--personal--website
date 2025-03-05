@@ -1,6 +1,19 @@
-VIRGINIA WANJIRU Virginia Wanjiru, Business and Tech Visionary
 
-Guiding Businesses to Success with a Tech Touch
-About Me:
+# My Personal Website
 
-Hello and welcome! I’m thrilled to have you here. With a vibrant background in entrepreneurship and operations, coupled with a newfound passion for tech, I’m diving into the world of software engineering. Committed to combining my business acumen with innovative tech solutions, I aim to bridge market gaps and help organizations achieve efficiency. As a natural problem solver, I take pride in being the mastermind behind the magic, turning challenges into opportunities for meaningful and inspiring change. Let’s grow together and spread a little sunshine in the tech industry!
+**Virginia Wanjiru**
+
+## About Me
+Welcome to my personal website! I'm Virginia Wanjiru, a business and tech visionary. With a background in entrepreneurship and operations, I'm now diving into software engineering to combine my business acumen with innovative tech solutions.
+
+## Features
+- About Me section
+- Projects showcase
+- Contact information
+
+Navigate through the website to learn more about me, view my projects, and get in touch.
+
+Contact
+GitHub: VWDREAM
+
+Email: wanjiruvirginiah26@gmail.com
